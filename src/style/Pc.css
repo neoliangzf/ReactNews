@@ -1,0 +1,59 @@
+
+.logo {
+  align-items: center;
+  display: flex;
+}
+
+.logo img {
+  width: 48px;
+  height: 48px;
+}
+
+.logo span {
+  font-size: 24px;
+  padding-left: 5px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 240px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide {
+  color: #fff;
+}
+
+.container {
+  padding-top: 10px;
+}
+
+.leftContainer {
+  width: 400px;
+  float: left;
+}
+.ant-card-body{
+  text-align: left !important;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+
+.pc-header-menu-item {
+  padding: 0 40px;
+}
+
+.tabs_news {
+  padding-left: 40px;
+}
+
+.tabs_news .ant-card-body {
+  height: 580px;
+}
+
